@@ -1,6 +1,12 @@
-﻿Gorilla Scroller
+Gorilla Scroller
 ================
 
-Demo:
-http://codepen.io/danieloprado/full/KgoOBQ/
+Demo
+----
+http://codepen.io/danieloprado/KgoOBQ/
 
+How to user  
+-----------
+```js
+$('#sections').gorillaScroller();
+```
